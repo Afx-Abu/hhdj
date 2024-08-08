@@ -573,7 +573,7 @@ font span{
       
       <div class="btnn">
           
-          <button disabled id="p2"> https://lucky.fastwinn.live/register?code=<?php echo $owncode; ?></button>
+          <button disabled id="p2"> https://hhdj-production.up.railway.app/register?code=<?php echo $owncode; ?></button>
       </div>
           <div class="cls" onclick="copyToClipboard('#p2')"> Copy Link</div>
           
