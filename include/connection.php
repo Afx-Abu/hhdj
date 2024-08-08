@@ -3,7 +3,7 @@
 // error_reporting(E_ALL);
 // ini_set('display_errors', 1);
 
-$con = @mysqli_connect('localhost', 'fastwinn_lucky111', 'fastwinn_lucky111', 'fastwinn_lucky111');
+$con = @mysqli_connect('monorail.proxy.rlwy.net', 'root', 'wlAeKZhmBojdrbvIHqLKKFSWSbitltyA', 'railway');
 if (!$con) {
     echo "Error: " . mysqli_connect_error();
     exit();
